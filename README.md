@@ -1,15 +1,14 @@
-<a href="https://leetcode.com/baibhavrajputt/">
 <img src="https://drive.google.com/uc?export=view&id=1HWatXypJhdDKYVw-LfXmMaDsez5avd-p" style="width: 1050px; max-width: 100%; height: auto" title="Click to visit profile" />
 </a>
 <h1 align="center">Hi, I'm Rahul Dev</h1>
-<h3 align="center">CS Undergrad '22 | Aspiring Software Developer | ReactJs | Frontend Android Developer | Java | Kotlin</h3>
+<h3 align="center">Software Engineer @Cognizant | React JS | Typescript | React Native | Java</h3>
 
 ## Skills
 - <img alt="ReactJS" src="https://img.shields.io/badge/reactjs-%23ED8B00.svg?&style=for-the-badge&logo=react&logoColor=white"/> <img alt="React Native" src="https://img.shields.io/badge/reactnative-%23009500?&style=for-the-badge&logo=react&logoColor=white"/>
 
-- <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23FF26BE.svg?&style=for-the-badge&logo=javascript&logoColor=white" /> <img alt="HTML" src="https://img.shields.io/badge/html%23ED8B00.svg?&style=for-the-badge&logo=html&logoColor=white" /> <img alt="CSS" src="[https://img.shields.io/badge/android_studio-%230099F0.svg?&style=for-the-badge&logo=android_studio&logoColor=white](https://img.shields.io/badge/css-%29382903?&style=for-the-badge&logo=css&logoColor=white)"/>
+- <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23FF26BE.svg?&style=for-the-badge&logo=javascript&logoColor=white" /> <img alt="HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> <img alt="CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 
-- <img alt="Object Oriented Programming" src="https://img.shields.io/badge/object_oriented_programming-%230095D5.svg?&style=for-the-badge&logo=object_oriented_programming&logoColor=white" /> <img alt="Firebase" src="https://img.shields.io/badge/firebase-%23ED8B00.svg?&style=for-the-badge&logo=firebase&logoColor=white" />  <img alt="XML" src="https://img.shields.io/badge/xml-%23FF26BE.svg?&style=for-the-badge&logo=xml&logoColor=white" /> <img alt="RestAPI" src="https://img.shields.io/badge/restapi-%23000000.svg?&style=for-the-badge&logo=restapi&logoColor=white" /> 
+- <img alt="Object Oriented Programming" src="https://img.shields.io/badge/object_oriented_programming-%230095D5.svg?&style=for-the-badge&logo=object_oriented_programming&logoColor=white" /> <img alt="Typescript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
 
 <!-- - **Java** | **Kotlin**
 - **Data Structures | Algorithms | Obejct Oriented Programming**
